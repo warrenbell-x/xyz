@@ -18,8 +18,8 @@ files/*
 updates/*
 
 # ignore packages folder
-packages/*
-concrete/packages/*
+# packages/*
+# concrete/packages/*
 
 # ignore sitemap.xml
 sitemap.xml

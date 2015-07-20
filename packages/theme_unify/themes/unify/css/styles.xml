@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<styles version="1.0">
+    <set name="Full Page">
+        <style name="Main Color" variable="primary-main" type="color" />
+        <style name="Hover Color" variable="primary-hover" type="color" />
+        <style name="Additional Color" variable="primary-additional" type="color" />
+    </set>
+</styles>
