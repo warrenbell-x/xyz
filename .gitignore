@@ -4,6 +4,8 @@ thumbs.db
 __MACOSX
 ._*
 
+# TEST
+
 # ignore the site.php
 config/site.php
 
