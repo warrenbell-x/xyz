@@ -1,0 +1,38 @@
+# ignore system files
+.DS_Store
+thumbs.db
+__MACOSX
+._*
+
+# ignore the site.php
+config/site.php
+
+# ignore the concrete5 core, too much overhead with deployment + git
+concrete/*
+
+#ignore everything but the index.html
+files/*
+!files/index.html
+
+# ignore updates folder
+updates/*
+
+# ignore packages folder
+packages/*
+concrete/packages/*
+
+# ignore sitemap.xml
+sitemap.xml
+
+# ignore the error log and .htaccess and others
+error_log
+.htaccess
+.ftpquota
+/.idea/
+
+# ignore Aptana and Eclipse project files
+.project
+
+# ignore Eclipse-specific files
+/.settings/
+/.buildpath
