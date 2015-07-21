@@ -16,6 +16,9 @@ concrete/*
 files/*
 !files/index.html
 
+#ignore everything in the application/files directory
+application/files/*
+
 # ignore updates folder
 updates/*
 
