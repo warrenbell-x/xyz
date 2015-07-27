@@ -16,7 +16,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-        return t("Adds Unify Theme.");
+        return t("Adds Unify Theme 2.");
     }
 
     public function getPackageName()
